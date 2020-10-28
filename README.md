@@ -1,4 +1,4 @@
-# code-challenge_num2word
+## code-challenge_num2word
 ### Instructions:
 #### Download all contents into a folder: 1) .ipynb file that contains the script 2) 'Test input' and 'Test input 2' txt files.
 #### Use Jupyter Notebook to open the script. Run the code ('Cell' / 'Run All').
